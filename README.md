@@ -1,1 +1,2 @@
 # BayesAccuracy
+Python file contains a program that is designed to be used to both train a naive bayes model and then to calculate the accuracy, precision, recall, etc. of that model as well. The input for the accuracy and train algorithms should be a csv file where of n and m columns, where each row is a different training subject, and each column is a different categorical variable, except for the last one which is the target variable and the actual class. The function includes laplacian corrections as well.
